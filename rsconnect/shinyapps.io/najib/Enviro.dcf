@@ -5,9 +5,9 @@ account: najib
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5452581
-bundleId: 5518907
+bundleId: 5526616
 url: https://najib.shinyapps.io/Enviro/
-when: 1643388704.40235
-lastSyncTime: 1643388704.40235
+when: 1643639681.9689
+lastSyncTime: 1643639681.9689
 asMultiple: FALSE
 asStatic: FALSE
